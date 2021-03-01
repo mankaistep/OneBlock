@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="OneBlock-1.0-SNAPSHOT:jar">
+    <output-path>$PROJECT_DIR$/../../../Minecraft/Server/Server Test/1.12 Test 2/plugins</output-path>
+    <root id="archive" name="OneBlock.jar">
+      <element id="module-output" name="OneBlock" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

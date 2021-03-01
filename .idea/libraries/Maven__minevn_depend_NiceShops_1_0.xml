@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: minevn.depend:NiceShops:1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/minevn/depend/NiceShops/1.0/NiceShops-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/minevn/depend/NiceShops/1.0/NiceShops-1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/minevn/depend/NiceShops/1.0/NiceShops-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
